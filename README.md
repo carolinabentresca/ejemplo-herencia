@@ -1,3 +1,3 @@
 # Ejemplo-Herencia
 ### Proyecto Java / Java Application
-### Ejemplo concesionaria, manejo de Herencia
+## Manejo de Herencia (Proyecto Concesionaria)
